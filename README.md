@@ -1,8 +1,27 @@
 # 🚀 Thunder Hackathon 3.0 – JavaScript System Information & File Manager
 
 
-## RUN THE PROJECT
-// bun dev 
+# ▶️ Running the Project
+
+Install dependencies:
+
+```bash
+bun install
+```
+
+Run:
+
+```bash
+bun run src/server.ts
+```
+
+or
+
+```bash
+bun run dev
+```
+
+---
 ## 📌 Project Overview
 
 This project is a JavaScript/TypeScript-based utility built using **Node.js/Bun** that collects important system information, displays selected environment variables, and demonstrates **CRUD (Create, Read, Update, Delete)** operations on code files.
@@ -182,27 +201,7 @@ The project handles errors gracefully by:
 
 ---
 
-# ▶️ Running the Project
 
-Install dependencies:
-
-```bash
-bun install
-```
-
-Run:
-
-```bash
-bun run src/server.ts
-```
-
-or
-
-```bash
-bun src/server.ts
-```
-
----
 
 # 📋 Sample Output
 
